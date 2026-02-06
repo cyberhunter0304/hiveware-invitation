@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useForm, ValidationError } from '@formspree/react';
-import { ChevronRight, TrendingUp, Zap, Shield, Lock, Code, Smartphone, DollarSign, ArrowRight, Check } from 'lucide-react';
+import { TrendingUp, Shield, Code, Smartphone } from 'lucide-react';
 
 const styles = `
 /* ================================================
